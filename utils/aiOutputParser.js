@@ -41,7 +41,7 @@ const checkAddress = async (checkString) => {
     },
     {
       headers: {
-        Authorization: `Bearer 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`,
+        Authorization: ``,
       },
     }
   );
@@ -66,7 +66,7 @@ const checkWebsite = async (checkString) => {
     },
     {
       headers: {
-        Authorization: `Bearer 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`,
+        Authorization: ``,
       },
     }
   );
@@ -91,7 +91,7 @@ const checkEmail = async (checkString) => {
     },
     {
       headers: {
-        Authorization: `Bearer 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`,
+        Authorization: ``,
       },
     }
   );
